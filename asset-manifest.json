@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1Francovich/static/css/main.da3089f3.css",
+    "main.js": "/PreEntrega1Francovich/static/js/main.d58f86ee.js",
+    "index.html": "/PreEntrega1Francovich/index.html",
+    "main.da3089f3.css.map": "/PreEntrega1Francovich/static/css/main.da3089f3.css.map",
+    "main.d58f86ee.js.map": "/PreEntrega1Francovich/static/js/main.d58f86ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.d58f86ee.js"
+  ]
+}
