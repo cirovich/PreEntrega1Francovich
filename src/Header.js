@@ -16,7 +16,7 @@ function Header() {
               <Nav.Link href="#Pedidos">Pedidos</Nav.Link>
             </Nav>
             <a href="Carrito"> <img alt="Carrito" src={cart}></img></a>
-              0
+              1
           </Navbar.Collapse>
         </Container>
       </Navbar>
