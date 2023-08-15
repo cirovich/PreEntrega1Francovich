@@ -1,8 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import cart from "./assets/cart.svg";
-
+import Cart from "./Cart"
 
 function Header() {
   return (
@@ -15,8 +14,7 @@ function Header() {
               <Nav.Link href="#Institucional">Institucional</Nav.Link>
               <Nav.Link href="#Pedidos">Pedidos</Nav.Link>
             </Nav>
-            <a href="Carrito"> <img alt="Carrito" src={cart}></img></a>
-              1
+            <Cart/>
           </Navbar.Collapse>
         </Container>
       </Navbar>
