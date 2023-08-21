@@ -8,6 +8,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>  
-    <App />
+    <App/>
   </React.StrictMode>
 );
+
+//ojo con esto que provoca que se renderice todo dos veces. Por eso esta bodle el fetch mas alla del useEffect

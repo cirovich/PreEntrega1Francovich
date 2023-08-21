@@ -1,7 +1,7 @@
-import instagram from "./assets/instagram.svg";
-import facebook from "./assets/facebook.svg";
-import telegram from "./assets/telegram.svg";
-import whatsapp from "./assets/whatsapp.svg";
+import instagram from "./../assets/instagram.svg";
+import facebook from "./../assets/facebook.svg";
+import telegram from "./../assets/telegram.svg";
+import whatsapp from "./../assets/whatsapp.svg";
 
 function Footer() {
   return (
