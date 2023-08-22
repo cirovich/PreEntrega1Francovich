@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/PreEntrega1Francovich/static/css/main.da3089f3.css",
-    "main.js": "/PreEntrega1Francovich/static/js/main.35d66062.js",
+    "main.css": "/PreEntrega1Francovich/static/css/main.2a2a51ab.css",
+    "main.js": "/PreEntrega1Francovich/static/js/main.30e9a75b.js",
     "static/media/instagram.svg": "/PreEntrega1Francovich/static/media/instagram.4d969dd141d389ed7a2fe7584b56d681.svg",
     "static/media/whatsapp.svg": "/PreEntrega1Francovich/static/media/whatsapp.bd02df8e7a5ef128e55bcd2a40a8b4a5.svg",
     "static/media/telegram.svg": "/PreEntrega1Francovich/static/media/telegram.7a397da97f58e52383916be3bd0075d7.svg",
     "index.html": "/PreEntrega1Francovich/index.html",
     "static/media/cart.svg": "/PreEntrega1Francovich/static/media/cart.e2ee59b1e5000557dd8eddb08d7feacc.svg",
     "static/media/facebook.svg": "/PreEntrega1Francovich/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
-    "main.da3089f3.css.map": "/PreEntrega1Francovich/static/css/main.da3089f3.css.map",
-    "main.35d66062.js.map": "/PreEntrega1Francovich/static/js/main.35d66062.js.map"
+    "main.2a2a51ab.css.map": "/PreEntrega1Francovich/static/css/main.2a2a51ab.css.map",
+    "main.30e9a75b.js.map": "/PreEntrega1Francovich/static/js/main.30e9a75b.js.map"
   },
   "entrypoints": [
-    "static/css/main.da3089f3.css",
-    "static/js/main.35d66062.js"
+    "static/css/main.2a2a51ab.css",
+    "static/js/main.30e9a75b.js"
   ]
 }
